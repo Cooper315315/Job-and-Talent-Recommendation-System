@@ -36,11 +36,16 @@ Method: Web scraping from Jobsdb
 From friends & google search
 
 <h3>OCR (Optical Character Recognition)</h3>
-<img width="1078" alt="Screenshot 2021-08-03 at 17 58 34" src="https://user-images.githubusercontent.com/80112729/127997223-659e60e6-ce23-43af-aaf5-8aeda558241d.png">
+<img width="1217" alt="Screenshot 2021-08-03 at 18 29 29" src="https://user-images.githubusercontent.com/80112729/128001196-924fb26f-e449-429d-b2ee-a1221a827878.png">
+<br>
 
 <!-- <br> -->
 Convert a pdf file of text document into a machine encoded text. In other words, it can be further processed as a string format in jupyter notebook.
 <br>
+
+<img width="1439" alt="Code" src="https://user-images.githubusercontent.com/80112729/128001347-04f6e853-50f1-4e6e-aa49-ec12b8494d0d.png">
+
+
 
 
 
