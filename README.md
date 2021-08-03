@@ -18,3 +18,19 @@ Jobmigo brings the job world to you
 
 <h3>Process</h3>
 <img width="1216" alt="Screenshot 2021-08-03 at 17 33 23" src="https://user-images.githubusercontent.com/80112729/127993781-4cbdc488-13d9-4428-8d68-2f84e97dde8b.png">
+
+<h3>Data Collection</h3>
+1. Job posts: 
+<br>
+20,137 jobs
+<br>
+Across 5 main industries 
+<br>
+Method: Web scraping from Jobsdb
+<br>
+<br>
+2. CV: 
+<br>
+54 CVs
+<br>
+From friends & google search
