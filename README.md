@@ -34,3 +34,13 @@ Method: Web scraping from Jobsdb
 54 CVs
 <br>
 From friends & google search
+
+<h3>OCR (Optical Character Recognition)</h3>
+<img width="1078" alt="Screenshot 2021-08-03 at 17 58 34" src="https://user-images.githubusercontent.com/80112729/127997223-659e60e6-ce23-43af-aaf5-8aeda558241d.png">
+
+<!-- <br> -->
+Convert a pdf file of text document into a machine encoded text. In other words, it can be further processed as a string format in jupyter notebook.
+<br>
+
+
+
