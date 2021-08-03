@@ -15,3 +15,6 @@ Jobmigo brings the job world to you
 <br>
 - Tailor-made dashboard
 <br>
+
+<h3>Process</h3>
+<img width="1216" alt="Screenshot 2021-08-03 at 17 33 23" src="https://user-images.githubusercontent.com/80112729/127993781-4cbdc488-13d9-4428-8d68-2f84e97dde8b.png">
