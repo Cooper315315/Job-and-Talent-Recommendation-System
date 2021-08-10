@@ -60,7 +60,33 @@ Convert a pdf file of text document into a machine encoded text. In other words,
 <br>
 
 <img width="1439" alt="Code" src="https://user-images.githubusercontent.com/80112729/128001347-04f6e853-50f1-4e6e-aa49-ec12b8494d0d.png">
+<br>
 
+
+<h3>NLP (Natural Language Processing)</h3>
+1.Word tokenization:
+<br>
+- Word tokenization
+<img width="1013" alt="Word_To" src="https://user-images.githubusercontent.com/80112729/128820414-9106bfd3-f760-4c7a-894c-2f2ac3cb35b6.png">
+<br>
+
+2.Stop words removal 
+<img width="1010" alt="Stopwords_removeal" src="https://user-images.githubusercontent.com/80112729/128821421-e20a99f3-44b1-49a5-b619-d233449ba5cf.png">
+<br>
+
+3.Lemmatization
+Converting a word to its base form. 
+<br>
+"motivated" to "motivate", "Learning" to "Learn".
+<br>
+<br>
+4.Bigram Collection Finder
+<br>
+Finding meaning double words.
+<br>
+<img width="428" alt="Bi_gram" src="https://user-images.githubusercontent.com/80112729/128822261-6124d4a7-a9c6-499a-9c26-adbe516707a4.png">
+
+<br>
 
 
 
