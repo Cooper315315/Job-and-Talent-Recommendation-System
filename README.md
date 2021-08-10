@@ -18,9 +18,24 @@ Jobmigo brings the job world to you
 
 <h3>Process</h3>
 <img width="1342" alt="Screenshot 2021-08-10 at 14 08 38" src="https://user-images.githubusercontent.com/80112729/128816859-87e061da-b9e1-4880-ba1a-6e38122ff412.png">
-
+<br>
 
 <h3>Data Collection</h3>
+<!-- - Web Scraping  -->
+Web Scraping 
+<img width="1217" alt="Screenshot 2021-08-10 at 14 11 29" src="https://user-images.githubusercontent.com/80112729/128817149-7059ea2a-9baa-437a-a702-f18d2a900025.png">
+Scraping useful information from websites, including Title, Company, Location, Salary and Post Date etc. 
+<br>
+
+<!-- - Data Preprocessing -->
+<br>
+Data Preprocessing
+<img width="1213" alt="Screenshot 2021-08-10 at 14 11 47" src="https://user-images.githubusercontent.com/80112729/128817186-7571f83e-8346-48a4-91fc-6be351b35625.png">
+Extract useful content from scraped data. E.g. HK$ 11,000 - HK$ 25, 000/month to 11000, 25000. 
+<br>
+<br>
+
+
 1. Job posts: 
 <br>
 20,137 jobs
