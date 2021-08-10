@@ -87,6 +87,28 @@ Finding meaning double words.
 <img width="428" alt="Bi_gram" src="https://user-images.githubusercontent.com/80112729/128822261-6124d4a7-a9c6-499a-9c26-adbe516707a4.png">
 
 <br>
+<h3>How does it work?</h3>
+<img width="1262" alt="Recommendatikon system" src="https://user-images.githubusercontent.com/80112729/128826802-9368a2e6-c14b-4645-a213-56b8041a65ab.png">
+
+<br>
+CountVectorizer
+<img width="1247" alt="CV" src="https://user-images.githubusercontent.com/80112729/128827727-a5f9febf-4599-4c7a-823e-7c4b741405c8.png">
+
+
+<br>
+TF-IDF
+<img width="1248" alt="TF-IDF" src="https://user-images.githubusercontent.com/80112729/128827746-b2a9ed56-828c-4a29-86bf-248e4d29e3e9.png">
+
+
+<br>
+KNN
+<img width="1248" alt="KNN" src="https://user-images.githubusercontent.com/80112729/128827771-f4bbce47-1fb0-4536-ac61-b97c0f66eefb.png">
+
+
+<br>
+Recommendations
+<img width="864" alt="Recommendationssss" src="https://user-images.githubusercontent.com/80112729/128827831-e5ae55cd-394d-4ac5-8522-95bdf8a5bb8a.png">
+
 
 
 
