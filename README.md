@@ -106,6 +106,10 @@ KNN
 
 
 <br>
+Cosine Similarity 
+<img width="900" alt="CosSim" src="https://user-images.githubusercontent.com/80112729/128829905-4ae21f09-73a4-4f3d-bacb-b936b431e85c.png">
+
+<br>
 Recommendations
 <img width="700" alt="Recommendationssss" src="https://user-images.githubusercontent.com/80112729/128827831-e5ae55cd-394d-4ac5-8522-95bdf8a5bb8a.png">
 
