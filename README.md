@@ -34,6 +34,8 @@ Assist applicants to search for potential jobs
 <br>
 Assist recruiters to find talents
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h3>Business Values</h3>
 Jobmigo brings the job world to you
 <br>
@@ -44,9 +46,13 @@ Jobmigo brings the job world to you
 - Tailor-made dashboard
 <br>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h3>Process</h3>
 <img width="700" alt="Screenshot 2021-08-10 at 14 08 38" src="https://user-images.githubusercontent.com/80112729/128816859-87e061da-b9e1-4880-ba1a-6e38122ff412.png">
 <br>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3>Data Collection</h3>
 <!-- - Web Scraping  -->
@@ -55,6 +61,8 @@ Web Scraping
 Scraping useful information from websites, including Title, Company, Location, Salary and Post Date etc. 
 <br>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <!-- - Data Preprocessing -->
 <br>
 Data Preprocessing
@@ -62,6 +70,8 @@ Data Preprocessing
 Extract useful content from scraped data. E.g. HK$ 11,000 - HK$ 25, 000/month to 11000, 25000. 
 <br>
 <br>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 1. Job posts: 
@@ -79,6 +89,8 @@ Method: Web scraping from Jobsdb
 <br>
 From friends & google search
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h3>OCR (Optical Character Recognition)</h3>
 <img width="700" alt="Screenshot 2021-08-03 at 18 29 29" src="https://user-images.githubusercontent.com/80112729/128001196-924fb26f-e449-429d-b2ee-a1221a827878.png">
 <br>
@@ -90,6 +102,7 @@ Convert a pdf file of text document into a machine encoded text. In other words,
 <img width="700" alt="Code" src="https://user-images.githubusercontent.com/80112729/128001347-04f6e853-50f1-4e6e-aa49-ec12b8494d0d.png">
 <br>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3>NLP (Natural Language Processing)</h3>
 1.Word tokenization:
@@ -115,6 +128,9 @@ Finding meaning double words.
 <img width="428" alt="Bi_gram" src="https://user-images.githubusercontent.com/80112729/128822261-6124d4a7-a9c6-499a-9c26-adbe516707a4.png">
 
 <br>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h3>How does it work?</h3>
 <br>
 <img width="700" alt="Recommendatikon system" src="https://user-images.githubusercontent.com/80112729/128826802-9368a2e6-c14b-4645-a213-56b8041a65ab.png">
@@ -139,16 +155,18 @@ Cosine Similarity
 <img width="900" alt="CosSim" src="https://user-images.githubusercontent.com/80112729/128829905-4ae21f09-73a4-4f3d-bacb-b936b431e85c.png">
 
 <br>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 <h3>Recommendations</h3>
 <img width="700" alt="Recommendationssss" src="https://user-images.githubusercontent.com/80112729/128827831-e5ae55cd-394d-4ac5-8522-95bdf8a5bb8a.png">
 
 
 <br>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 Streamlit Demo
-
-
-
-
 
 
 https://user-images.githubusercontent.com/80112729/128828052-0381a96c-d994-4499-908b-ef59f5f27aa1.mp4
