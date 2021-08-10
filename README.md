@@ -1,5 +1,33 @@
 # Job-and-Talent-Recommendation-System
 
+<!-- Table of Content
+<br>
+[Aim](#Aim)
+<br>
+[Business Values](#Goal)
+<br>
+[Process](#Process)
+<br>
+[Data Collection](#DataCollection)
+<br>
+[OCR (Optical Character Recognition)](#OCR)
+<br>
+[NLP (Natural Language Processing)](#NLP)
+<br>
+[How does it work?](#Method)
+<br>
+[Recommendations](#Recommendations)
+<br>
+
+<a name="Aim"/>
+<a name="Goal"/>
+<a name="Process"/>
+<a name="DataCollection"/>
+<a name="OCR"/>
+<a name="NLP"/>
+<a name="Method"/>
+<a name="Recommendations"/>
+ -->
 
 <h3>Aim</h3>
 Assist applicants to search for potential jobs
@@ -88,8 +116,9 @@ Finding meaning double words.
 
 <br>
 <h3>How does it work?</h3>
+<br>
 <img width="700" alt="Recommendatikon system" src="https://user-images.githubusercontent.com/80112729/128826802-9368a2e6-c14b-4645-a213-56b8041a65ab.png">
-
+<br>
 <br>
 CountVectorizer
 <img width="700" alt="CV" src="https://user-images.githubusercontent.com/80112729/128827727-a5f9febf-4599-4c7a-823e-7c4b741405c8.png">
@@ -110,7 +139,7 @@ Cosine Similarity
 <img width="900" alt="CosSim" src="https://user-images.githubusercontent.com/80112729/128829905-4ae21f09-73a4-4f3d-bacb-b936b431e85c.png">
 
 <br>
-Recommendations
+<h3>Recommendations</h3>
 <img width="700" alt="Recommendationssss" src="https://user-images.githubusercontent.com/80112729/128827831-e5ae55cd-394d-4ac5-8522-95bdf8a5bb8a.png">
 
 
