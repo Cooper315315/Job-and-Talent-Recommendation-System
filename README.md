@@ -61,33 +61,31 @@ Web Scraping
 Scraping useful information from websites, including Title, Company, Location, Salary and Post Date etc. 
 <br>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 <!-- - Data Preprocessing -->
 <br>
 Data Preprocessing
 <img width="700" alt="Screenshot 2021-08-10 at 14 11 47" src="https://user-images.githubusercontent.com/80112729/128817186-7571f83e-8346-48a4-91fc-6be351b35625.png">
 Extract useful content from scraped data. E.g. HK$ 11,000 - HK$ 25, 000/month to 11000, 25000. 
 <br>
-<br>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<br>
+<br>
 
 1. Job posts: 
 <br>
-20,137 jobs
+- 20,137 jobs
 <br>
-Across 5 main industries 
+- Across 5 main industries 
 <br>
-Method: Web scraping from Jobsdb
+- Method: Web scraping from Jobsdb
 <br>
 <br>
 2. CV: 
 <br>
-54 CVs
+- 54 CVs
 <br>
-From friends & google search
+- From friends & google search
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
