@@ -17,7 +17,8 @@ Jobmigo brings the job world to you
 <br>
 
 <h3>Process</h3>
-<img width="1216" alt="Screenshot 2021-08-03 at 17 33 23" src="https://user-images.githubusercontent.com/80112729/127993781-4cbdc488-13d9-4428-8d68-2f84e97dde8b.png">
+<img width="1342" alt="Screenshot 2021-08-10 at 14 08 38" src="https://user-images.githubusercontent.com/80112729/128816859-87e061da-b9e1-4880-ba1a-6e38122ff412.png">
+
 
 <h3>Data Collection</h3>
 1. Job posts: 
