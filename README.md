@@ -110,6 +110,15 @@ Recommendations
 <img width="864" alt="Recommendationssss" src="https://user-images.githubusercontent.com/80112729/128827831-e5ae55cd-394d-4ac5-8522-95bdf8a5bb8a.png">
 
 
+<br>
+Streamlit Demo
+
+
+
+
+
+
+https://user-images.githubusercontent.com/80112729/128828052-0381a96c-d994-4499-908b-ef59f5f27aa1.mp4
 
 
 
