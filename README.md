@@ -17,20 +17,20 @@ Jobmigo brings the job world to you
 <br>
 
 <h3>Process</h3>
-<img width="1342" alt="Screenshot 2021-08-10 at 14 08 38" src="https://user-images.githubusercontent.com/80112729/128816859-87e061da-b9e1-4880-ba1a-6e38122ff412.png">
+<img width="700" alt="Screenshot 2021-08-10 at 14 08 38" src="https://user-images.githubusercontent.com/80112729/128816859-87e061da-b9e1-4880-ba1a-6e38122ff412.png">
 <br>
 
 <h3>Data Collection</h3>
 <!-- - Web Scraping  -->
 Web Scraping 
-<img width="1217" alt="Screenshot 2021-08-10 at 14 11 29" src="https://user-images.githubusercontent.com/80112729/128817149-7059ea2a-9baa-437a-a702-f18d2a900025.png">
+<img width="700" alt="Screenshot 2021-08-10 at 14 11 29" src="https://user-images.githubusercontent.com/80112729/128817149-7059ea2a-9baa-437a-a702-f18d2a900025.png">
 Scraping useful information from websites, including Title, Company, Location, Salary and Post Date etc. 
 <br>
 
 <!-- - Data Preprocessing -->
 <br>
 Data Preprocessing
-<img width="1213" alt="Screenshot 2021-08-10 at 14 11 47" src="https://user-images.githubusercontent.com/80112729/128817186-7571f83e-8346-48a4-91fc-6be351b35625.png">
+<img width="700" alt="Screenshot 2021-08-10 at 14 11 47" src="https://user-images.githubusercontent.com/80112729/128817186-7571f83e-8346-48a4-91fc-6be351b35625.png">
 Extract useful content from scraped data. E.g. HK$ 11,000 - HK$ 25, 000/month to 11000, 25000. 
 <br>
 <br>
@@ -52,14 +52,14 @@ Method: Web scraping from Jobsdb
 From friends & google search
 
 <h3>OCR (Optical Character Recognition)</h3>
-<img width="1217" alt="Screenshot 2021-08-03 at 18 29 29" src="https://user-images.githubusercontent.com/80112729/128001196-924fb26f-e449-429d-b2ee-a1221a827878.png">
+<img width="700" alt="Screenshot 2021-08-03 at 18 29 29" src="https://user-images.githubusercontent.com/80112729/128001196-924fb26f-e449-429d-b2ee-a1221a827878.png">
 <br>
 
 <!-- <br> -->
 Convert a pdf file of text document into a machine encoded text. In other words, it can be further processed as a string format in jupyter notebook.
 <br>
 
-<img width="1439" alt="Code" src="https://user-images.githubusercontent.com/80112729/128001347-04f6e853-50f1-4e6e-aa49-ec12b8494d0d.png">
+<img width="700" alt="Code" src="https://user-images.githubusercontent.com/80112729/128001347-04f6e853-50f1-4e6e-aa49-ec12b8494d0d.png">
 <br>
 
 
@@ -67,11 +67,11 @@ Convert a pdf file of text document into a machine encoded text. In other words,
 1.Word tokenization:
 <br>
 - Word tokenization
-<img width="1013" alt="Word_To" src="https://user-images.githubusercontent.com/80112729/128820414-9106bfd3-f760-4c7a-894c-2f2ac3cb35b6.png">
+<img width="700" alt="Word_To" src="https://user-images.githubusercontent.com/80112729/128820414-9106bfd3-f760-4c7a-894c-2f2ac3cb35b6.png">
 <br>
 
 2.Stop words removal 
-<img width="1010" alt="Stopwords_removeal" src="https://user-images.githubusercontent.com/80112729/128821421-e20a99f3-44b1-49a5-b619-d233449ba5cf.png">
+<img width="1210" alt="Stopwords_removeal" src="https://user-images.githubusercontent.com/80112729/128821421-e20a99f3-44b1-49a5-b619-d233449ba5cf.png">
 <br>
 
 3.Lemmatization
@@ -88,26 +88,26 @@ Finding meaning double words.
 
 <br>
 <h3>How does it work?</h3>
-<img width="1262" alt="Recommendatikon system" src="https://user-images.githubusercontent.com/80112729/128826802-9368a2e6-c14b-4645-a213-56b8041a65ab.png">
+<img width="700" alt="Recommendatikon system" src="https://user-images.githubusercontent.com/80112729/128826802-9368a2e6-c14b-4645-a213-56b8041a65ab.png">
 
 <br>
 CountVectorizer
-<img width="1247" alt="CV" src="https://user-images.githubusercontent.com/80112729/128827727-a5f9febf-4599-4c7a-823e-7c4b741405c8.png">
+<img width="700" alt="CV" src="https://user-images.githubusercontent.com/80112729/128827727-a5f9febf-4599-4c7a-823e-7c4b741405c8.png">
 
 
 <br>
 TF-IDF
-<img width="1248" alt="TF-IDF" src="https://user-images.githubusercontent.com/80112729/128827746-b2a9ed56-828c-4a29-86bf-248e4d29e3e9.png">
+<img width="700" alt="TF-IDF" src="https://user-images.githubusercontent.com/80112729/128827746-b2a9ed56-828c-4a29-86bf-248e4d29e3e9.png">
 
 
 <br>
 KNN
-<img width="1248" alt="KNN" src="https://user-images.githubusercontent.com/80112729/128827771-f4bbce47-1fb0-4536-ac61-b97c0f66eefb.png">
+<img width="700" alt="KNN" src="https://user-images.githubusercontent.com/80112729/128827771-f4bbce47-1fb0-4536-ac61-b97c0f66eefb.png">
 
 
 <br>
 Recommendations
-<img width="864" alt="Recommendationssss" src="https://user-images.githubusercontent.com/80112729/128827831-e5ae55cd-394d-4ac5-8522-95bdf8a5bb8a.png">
+<img width="700" alt="Recommendationssss" src="https://user-images.githubusercontent.com/80112729/128827831-e5ae55cd-394d-4ac5-8522-95bdf8a5bb8a.png">
 
 
 <br>
