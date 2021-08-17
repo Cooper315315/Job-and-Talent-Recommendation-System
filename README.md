@@ -4,12 +4,13 @@
 * [Aim](#aim)
 * [Business Values](#business-values)
 * [Data Collection](#data-collection)
-<!-- * [Data Preprocessing](#data-preprocessing) -->
+* [Data Preprocessing](#data-preprocessing)
 * [Optical Character Recognition](#optical-character-recognition)
-* [Data Collection](#data-collection)
-* [Data Collection](#data-collection)
-* [Data Collection](#data-collection)
-* [Data Collection](#data-collection)
+* [Natural Language Processing](#natural-language-processing)
+* [Recommendations](#recommendations)
+* [Result](#result)
+* [Conclusion](#conclusion)
+* [Next Stop](#next-stop)
 
 <h3>Aim</h3>
 Assist applicants to search for potential jobs
@@ -45,7 +46,7 @@ Scraping useful information from websites, including Title, Company, Location, S
 
 <!-- - Data Preprocessing -->
 <br>
-Data Preprocessing
+<h3>Data Preprocessing</h3>
 <img width="700" alt="Screenshot 2021-08-10 at 14 11 47" src="https://user-images.githubusercontent.com/80112729/128817186-7571f83e-8346-48a4-91fc-6be351b35625.png">
 Extract useful content from scraped data. E.g. HK$ 11,000 - HK$ 25, 000/month to 11000, 25000. 
 <br>
@@ -84,7 +85,7 @@ Convert a pdf file of text document into a machine encoded text. In other words,
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h3>NLP (Natural Language Processing)</h3>
+<h3>Natural Language Processing</h3>
 1.Word tokenization:
 <br>
 - Word tokenization
@@ -111,7 +112,7 @@ Finding meaning double words.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h3>How does it work?</h3>
+<h3>Recommendations</h3>
 <br>
 <img width="700" alt="Recommendatikon system" src="https://user-images.githubusercontent.com/80112729/128826802-9368a2e6-c14b-4645-a213-56b8041a65ab.png">
 <br>
@@ -139,7 +140,7 @@ Cosine Similarity
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-<h3>Recommendations</h3>
+<h3>Result</h3>
 <img width="700" alt="Recommendationssss" src="https://user-images.githubusercontent.com/80112729/128827831-e5ae55cd-394d-4ac5-8522-95bdf8a5bb8a.png">
 
 
@@ -152,7 +153,11 @@ Streamlit Demo
 https://user-images.githubusercontent.com/80112729/128828052-0381a96c-d994-4499-908b-ef59f5f27aa1.mp4
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-Conclusion
+<h3>Conclusion</h3>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h3>Next Stop</h3>
 
 <br>
 <br>
