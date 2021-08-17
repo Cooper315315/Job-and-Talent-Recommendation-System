@@ -1,6 +1,14 @@
 # Job-and-Talent-Recommendation-System
 
 ## Table of contents
+* [Aim](#aim)
+* [Business Values](#business-values)
+* [Data Collection](#data-collection)
+<!-- * [Data Preprocessing](#data-preprocessing) -->
+* [Optical Character Recognition](#optical-character-recognition)
+* [Data Collection](#data-collection)
+* [Data Collection](#data-collection)
+* [Data Collection](#data-collection)
 * [Data Collection](#data-collection)
 
 <h3>Aim</h3>
@@ -63,7 +71,7 @@ Extract useful content from scraped data. E.g. HK$ 11,000 - HK$ 25, 000/month to
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h3>OCR (Optical Character Recognition)</h3>
+<h3>Optical Character Recognition</h3>
 <img width="700" alt="Screenshot 2021-08-03 at 18 29 29" src="https://user-images.githubusercontent.com/80112729/128001196-924fb26f-e449-429d-b2ee-a1221a827878.png">
 <br>
 
