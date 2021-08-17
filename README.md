@@ -46,8 +46,8 @@ Scraping useful information from websites, including Title, Company, Location, S
 
 <br>
 <h3>Data Preprocessing</h3>
-<img width="700" alt="Screenshot 2021-08-10 at 14 11 47" src="https://user-images.githubusercontent.com/80112729/128817186-7571f83e-8346-48a4-91fc-6be351b35625.png">
 Extract useful content from scraped data. E.g. HK$ 11,000 - HK$ 25, 000/month to 11000, 25000. 
+<img width="700" alt="Screenshot 2021-08-10 at 14 11 47" src="https://user-images.githubusercontent.com/80112729/128817186-7571f83e-8346-48a4-91fc-6be351b35625.png">
 <br>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -73,10 +73,10 @@ Dataset
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3>Optical Character Recognition</h3>
-<img width="700" alt="Screenshot 2021-08-03 at 18 29 29" src="https://user-images.githubusercontent.com/80112729/128001196-924fb26f-e449-429d-b2ee-a1221a827878.png">
+Convert a pdf file of text document into a machine encoded text. In other words, it can be further processed as a string format in jupyter notebook.
 <br>
 
-Convert a pdf file of text document into a machine encoded text. In other words, it can be further processed as a string format in jupyter notebook.
+<img width="700" alt="Screenshot 2021-08-03 at 18 29 29" src="https://user-images.githubusercontent.com/80112729/128001196-924fb26f-e449-429d-b2ee-a1221a827878.png">
 <br>
 
 <img width="700" alt="Code" src="https://user-images.githubusercontent.com/80112729/128001347-04f6e853-50f1-4e6e-aa49-ec12b8494d0d.png">
@@ -111,7 +111,6 @@ Finding meaning double words.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3>Recommendations</h3>
-<br>
 <img width="700" alt="Recommendatikon system" src="https://user-images.githubusercontent.com/80112729/128826802-9368a2e6-c14b-4645-a213-56b8041a65ab.png">
 <br>
 <br>
@@ -158,7 +157,6 @@ Jobmigo provides a robust recommendation platform for both job seekers and recru
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3>Next Step</h3>
-<br>
 Further develop recommendation system to return accurate relevant results
 <br>
 Engage with job posting companies to get access to updat
