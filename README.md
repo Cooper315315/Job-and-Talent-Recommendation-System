@@ -110,17 +110,18 @@ Finding meaning double words.
 <br>
 <br>
 CountVectorizer
-<img width="700" alt="CV" src="https://user-images.githubusercontent.com/80112729/128827727-a5f9febf-4599-4c7a-823e-7c4b741405c8.png">
+<img width="700" alt="CV1" src="https://user-images.githubusercontent.com/80112729/129741412-f7d75f35-5df3-4d76-8c57-c546ba118ebf.png">
+
 <br>
 
 TF-IDF
 <br>
-<img width="700" alt="TF-IDF" src="https://user-images.githubusercontent.com/80112729/128827746-b2a9ed56-828c-4a29-86bf-248e4d29e3e9.png">
+<img width="700" alt="TF-IDF1" src="https://user-images.githubusercontent.com/80112729/129742243-e2b4b81a-d5b7-41b5-89fa-12d504edd1b7.png">
 <br>
 
 KNN
 <br>
-<img width="700" alt="KNN" src="https://user-images.githubusercontent.com/80112729/128827771-f4bbce47-1fb0-4536-ac61-b97c0f66eefb.png">
+<img width="700" alt="KNN1" src="https://user-images.githubusercontent.com/80112729/129743390-42f8bdb2-a982-4391-8470-09f3bcdadce5.png">
 <br>
 
 Cosine Similarity 
