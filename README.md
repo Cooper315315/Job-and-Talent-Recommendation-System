@@ -10,7 +10,7 @@
 * [Recommendations](#recommendations)
 * [Result](#result)
 * [Conclusion](#conclusion)
-* [Next Stop](#next-stop)
+* [Next Step](#next-step)
 
 <h3>Aim</h3>
 Assist applicants to search for potential jobs
