@@ -38,13 +38,12 @@ Jobmigo brings the job world to you
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3>Data Collection</h3>
-<!-- - Web Scraping  -->
 Web Scraping 
-<img width="700" alt="Screenshot 2021-08-10 at 14 11 29" src="https://user-images.githubusercontent.com/80112729/128817149-7059ea2a-9baa-437a-a702-f18d2a900025.png">
+<br>
 Scraping useful information from websites, including Title, Company, Location, Salary and Post Date etc. 
 <br>
+<img width="700" alt="Screenshot 2021-08-10 at 14 11 29" src="https://user-images.githubusercontent.com/80112729/128817149-7059ea2a-9baa-437a-a702-f18d2a900025.png">
 
-<!-- - Data Preprocessing -->
 <br>
 <h3>Data Preprocessing</h3>
 <img width="700" alt="Screenshot 2021-08-10 at 14 11 47" src="https://user-images.githubusercontent.com/80112729/128817186-7571f83e-8346-48a4-91fc-6be351b35625.png">
@@ -53,13 +52,14 @@ Extract useful content from scraped data. E.g. HK$ 11,000 - HK$ 25, 000/month to
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <br>
-<br>
 
-1. Job posts: 
+Dataset
+<br>
+1. Position:
 <br>
 - 20,137 jobs
 <br>
-- Across 5 main industries 
+- Across 5 main industries (including main industry such as finance, banking, logistics, and IT) 
 <br>
 - Method: Web scraping from Jobsdb
 <br>
@@ -76,7 +76,6 @@ Extract useful content from scraped data. E.g. HK$ 11,000 - HK$ 25, 000/month to
 <img width="700" alt="Screenshot 2021-08-03 at 18 29 29" src="https://user-images.githubusercontent.com/80112729/128001196-924fb26f-e449-429d-b2ee-a1221a827878.png">
 <br>
 
-<!-- <br> -->
 Convert a pdf file of text document into a machine encoded text. In other words, it can be further processed as a string format in jupyter notebook.
 <br>
 
