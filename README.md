@@ -111,24 +111,19 @@ Finding meaning double words.
 <br>
 CountVectorizer
 <img width="700" alt="CV" src="https://user-images.githubusercontent.com/80112729/128827727-a5f9febf-4599-4c7a-823e-7c4b741405c8.png">
-
-
 <br>
+
 TF-IDF
 <img width="700" alt="TF-IDF" src="https://user-images.githubusercontent.com/80112729/128827746-b2a9ed56-828c-4a29-86bf-248e4d29e3e9.png">
-
-
 <br>
+
 KNN
 <img width="700" alt="KNN" src="https://user-images.githubusercontent.com/80112729/128827771-f4bbce47-1fb0-4536-ac61-b97c0f66eefb.png">
-
-
 <br>
+
 Cosine Similarity 
 <img width="900" alt="CosSim" src="https://user-images.githubusercontent.com/80112729/128829905-4ae21f09-73a4-4f3d-bacb-b936b431e85c.png">
-
 <br>
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
@@ -136,21 +131,16 @@ Cosine Similarity
 <img width="700" alt="Recommendationssss" src="https://user-images.githubusercontent.com/80112729/128827831-e5ae55cd-394d-4ac5-8522-95bdf8a5bb8a.png">
 <br>
 Streamlit Demo
-
-
 https://user-images.githubusercontent.com/80112729/128828052-0381a96c-d994-4499-908b-ef59f5f27aa1.mp4
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h3>Conclusion</h3>
-Jobmigo provides a robust recommendation platform for both job seekers and recruiters. It is easy to use (just upload and run). For recruiters, it saves time screening CV manually and provides a less bias result; and for job seekers, it provides a tailor made and interactive dashboard with relevant job opportunities. 
+Jobmigo provides a robust recommendation platform for both job seekers and recruiters. The goal is to simplify the job seeking and candidate screening process, this can be achieved with Jobmigo. It is easy to use (just upload and run). For recruiters, it saves time screening CV manually and provides a less bias result; and for job seekers, it provides a tailor made and interactive dashboard with relevant job opportunities. 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3>Next Step</h3>
-Further develop recommendation system to return accurate relevant results
-<br>
-Engage with job posting companies to gain access to database / API
-<br>
-Invite applicants to join the CV database
-<br>
-More features on the dashboard
+* Further develop recommendation system to return accurate relevant results
+* Engage with job posting companies to gain access to database / API
+* Invite applicants to join the CV database
+* More features on the dashboard
