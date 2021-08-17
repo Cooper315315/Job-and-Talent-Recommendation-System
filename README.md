@@ -1,34 +1,5 @@
 # Job-and-Talent-Recommendation-System
 
-<!-- Table of Content
-<br>
-[Aim](#Aim)
-<br>
-[Business Values](#Goal)
-<br>
-[Process](#Process)
-<br>
-[Data Collection](#DataCollection)
-<br>
-[OCR (Optical Character Recognition)](#OCR)
-<br>
-[NLP (Natural Language Processing)](#NLP)
-<br>
-[How does it work?](#Method)
-<br>
-[Recommendations](#Recommendations)
-<br>
-
-<a name="Aim"/>
-<a name="Goal"/>
-<a name="Process"/>
-<a name="DataCollection"/>
-<a name="OCR"/>
-<a name="NLP"/>
-<a name="Method"/>
-<a name="Recommendations"/>
- -->
-
 <h3>Aim</h3>
 Assist applicants to search for potential jobs
 <br>
