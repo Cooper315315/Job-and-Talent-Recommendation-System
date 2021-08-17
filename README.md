@@ -63,21 +63,15 @@ Extract useful content from scraped data. E.g. HK$ 11,000 - HK$ 25, 000/month to
 <br>
 
 Dataset
-<br>
+
 1. Position:
-<br>
-- 20,137 jobs
-<br>
-- Across 5 main industries (including main industry such as finance, banking, logistics, and IT) 
-<br>
-- Method: Web scraping from Jobsdb
-<br>
-<br>
+* 20,137 jobs
+* Across 5 main industries (including main industry such as finance, banking, logistics, and IT) 
+* Method: Web scraping from Jobsdb
+
 2. CV: 
-<br>
-- 54 CVs
-<br>
-- From friends & google search
+* 54 CVs
+* From friends & google search
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -148,11 +142,6 @@ Cosine Similarity
 
 <h3>Result</h3>
 <img width="700" alt="Recommendationssss" src="https://user-images.githubusercontent.com/80112729/128827831-e5ae55cd-394d-4ac5-8522-95bdf8a5bb8a.png">
-
-
-<br>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <br>
 Streamlit Demo
 
