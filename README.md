@@ -87,7 +87,6 @@ Convert a pdf file of text document into a machine encoded text. In other words,
 <h3>Natural Language Processing</h3>
 1.Word tokenization:
 <br>
-- Word tokenization
 <img width="700" alt="Word_To" src="https://user-images.githubusercontent.com/80112729/128820414-9106bfd3-f760-4c7a-894c-2f2ac3cb35b6.png">
 <br>
 
