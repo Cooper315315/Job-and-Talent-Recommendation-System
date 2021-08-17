@@ -146,6 +146,7 @@ Cosine Similarity
 <br>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<br>
 Streamlit Demo
 
 
@@ -153,13 +154,16 @@ https://user-images.githubusercontent.com/80112729/128828052-0381a96c-d994-4499-
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h3>Conclusion</h3>
+Jobmigo provides a robust recommendation platform for both job seekers and recruiters. It is easy to use (just upload and run). For recruiters, it saves time screening CV manually and provides a less bias result; and for job seekers, it provides a tailor made and interactive dashboard with relevant job opportunities. 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h3>Next Stop</h3>
-
+<h3>Next Step</h3>
 <br>
+Further develop recommendation system to return accurate relevant results
 <br>
+Engage with job posting companies to get access to updat
 <br>
+Invite applicants to
 <br>
-
+More features on the dashboard
