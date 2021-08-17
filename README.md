@@ -114,10 +114,12 @@ CountVectorizer
 <br>
 
 TF-IDF
+<br>
 <img width="700" alt="TF-IDF" src="https://user-images.githubusercontent.com/80112729/128827746-b2a9ed56-828c-4a29-86bf-248e4d29e3e9.png">
 <br>
 
 KNN
+<br>
 <img width="700" alt="KNN" src="https://user-images.githubusercontent.com/80112729/128827771-f4bbce47-1fb0-4536-ac61-b97c0f66eefb.png">
 <br>
 
@@ -131,6 +133,8 @@ Cosine Similarity
 <img width="700" alt="Recommendationssss" src="https://user-images.githubusercontent.com/80112729/128827831-e5ae55cd-394d-4ac5-8522-95bdf8a5bb8a.png">
 <br>
 Streamlit Demo
+<br>
+
 https://user-images.githubusercontent.com/80112729/128828052-0381a96c-d994-4499-908b-ef59f5f27aa1.mp4
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -141,6 +145,9 @@ Jobmigo provides a robust recommendation platform for both job seekers and recru
 
 <h3>Next Step</h3>
 * Further develop recommendation system to return accurate relevant results
+<br>
 * Engage with job posting companies to gain access to database / API
+<br>
 * Invite applicants to join the CV database
+<br>
 * More features on the dashboard
