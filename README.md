@@ -33,6 +33,14 @@ Jobmigo brings the job world to you
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3>Process</h3>
+
+For job seeker:
+Firstly, Input the CV and then it will be processed by OCR. After that, the CV and job posts will undergo NLP process. And then both CV and job post will be compared by varies methods to find the similarity. Lastly, the system will list out recomendation of jobs.
+<br>
+<br>
+For recruiter:
+Firstly, Input the job post and it will undergo NLP process along with CV in database. And then both CV and job post will be compared by varies methods to find the similarity. Lastly, the system will list out recomendation of candidates.
+
 <img width="700" alt="Screenshot 2021-08-10 at 14 08 38" src="https://user-images.githubusercontent.com/80112729/128816859-87e061da-b9e1-4880-ba1a-6e38122ff412.png">
 <br>
 
