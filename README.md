@@ -3,6 +3,7 @@
 ## Table of contents
 * [Aim](#aim)
 * [Business Values](#business-values)
+* [Process](#process)
 * [Data Collection](#data-collection)
 * [Data Preprocessing](#data-preprocessing)
 * [Optical Character Recognition](#optical-character-recognition)
