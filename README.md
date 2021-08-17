@@ -114,11 +114,15 @@ CountVectorizer
 
 <br>
 
-TF-IDF
+TF-IDF (Term Frequency-Inverse Document Frequency)
 <br>
+- Term Frequency, TF: The number of times a term occurs in a document
+- Inverse Document Frequency, IDF: It measures how important a term is
 <img width="700" alt="TF-IDF1" src="https://user-images.githubusercontent.com/80112729/129742243-e2b4b81a-d5b7-41b5-89fa-12d504edd1b7.png">
+(Please note that for the word "earth", the IDF should be log(2/1)=0.3)
 <br>
-
+<br>
+<br>
 KNN
 <br>
 <img width="700" alt="KNN1" src="https://user-images.githubusercontent.com/80112729/129743390-42f8bdb2-a982-4391-8470-09f3bcdadce5.png">
