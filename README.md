@@ -110,14 +110,18 @@ Finding meaning double words.
 <br>
 <br>
 CountVectorizer
+<br>
+- It converts a set of strings into a sparse matrix 
+- One hot encode the text document
+<br>
 <img width="700" alt="CV1" src="https://user-images.githubusercontent.com/80112729/129741412-f7d75f35-5df3-4d76-8c57-c546ba118ebf.png">
-
 <br>
 
 TF-IDF (Term Frequency-Inverse Document Frequency)
 <br>
 - Term Frequency, TF: The number of times a term occurs in a document
 - Inverse Document Frequency, IDF: It measures how important a term is
+<br>
 <img width="700" alt="TF-IDF1" src="https://user-images.githubusercontent.com/80112729/129742243-e2b4b81a-d5b7-41b5-89fa-12d504edd1b7.png">
 (Please note that for the word "earth", the IDF should be log(2/1)=0.3)
 <br>
