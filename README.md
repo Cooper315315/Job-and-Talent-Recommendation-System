@@ -1,5 +1,8 @@
 # Job-and-Talent-Recommendation-System
 
+## Table of contents
+* [Data Collection](#data-collection)
+
 <h3>Aim</h3>
 Assist applicants to search for potential jobs
 <br>
